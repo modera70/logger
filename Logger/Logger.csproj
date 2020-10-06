@@ -4,7 +4,7 @@
 		<OutputType>library</OutputType>
 		<TargetFramework>netcoreapp3.1</TargetFramework>
 		<PackageId>Logger</PackageId>
-		<Version>1.1.2</Version>
+		<Version>1.1.4</Version>
 		<Authors>Eduardo</Authors>
 		<Company>Personal</Company>
 		<PackageDescription>This package to log</PackageDescription>
