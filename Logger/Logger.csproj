@@ -8,7 +8,7 @@
 		<Authors>Eduardo</Authors>
 		<Company>Personal</Company>
 		<PackageDescription>This package to log</PackageDescription>
-		<RepositoryUrl>https://github.com/modera70/logger</RepositoryUrl>
+		<RepositoryUrl>https://github.com/modera70/logger.git</RepositoryUrl>
 	</PropertyGroup>
 
 </Project>
